@@ -1,4 +1,4 @@
-# Turkce-cinsiyet-tahminlemesi
+# Türkçe Tweetlerden Cinsiyet Tahminlemesi
 Türkçe Toplanmış Tweetler Üzerinden Twitter Kullanıcılarının Cinsiyetlerinin Tahminlenmesi
 
 # Kurulum:
