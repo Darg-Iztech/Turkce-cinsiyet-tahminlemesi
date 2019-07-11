@@ -7,7 +7,7 @@ Türkçe Toplanmış Tweetler Üzerinden Twitter Kullanıcılarının Cinsiyetle
       tensorflow-gpu, gensim, NLTK, numpy, tqdm, matplotlib
 - Veri setleri https://pan.webis.de/clef18/pan18-web/author-profiling.html adresinden, ve istenirse daha önceki/sonraki tarihli     yayınlarından da elde edilebilir.
 - Char embeddingleri kodlar arasında olup word embeddingleri https://nlp.stanford.edu/projects/glove/ adresinden edinilebilir.
-- Çalışmada kullanılan, tarafımızdan toplanmış veri seti için: https://cloud.iyte.edu.tr/index.php/s/5DhqdlUCCdB60qG
+- Çalışmada kullanılan, tarafımızdan toplanmış Türkçe veri seti için: https://cloud.iyte.edu.tr/index.php/s/5DhqdlUCCdB60qG
 
 # Çalıştırma
 - İlgili Parameters dosyasındaki parametreleri ve pathleri kendi kurulumunuza göre ayarladıktan sonra:
